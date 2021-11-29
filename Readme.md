@@ -1,6 +1,7 @@
 Olá! Meu nome é Thiago Moura.
-- 👀 Tenho interesse em Ciência de Dados e Machine Learning.
-- 💻 Atualmente estou estudando Python e Power BI.
+---
+- 👀 Tenho interesse em **Ciência de Dados** e **Machine Learning.**
+- 💻 Atualmente estou estudando **Python** e **Power BI.**
 - 📧 tmoura1981@gmail.com
 
 <div align="center">
