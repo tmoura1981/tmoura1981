@@ -1,7 +1,7 @@
 Olá! Meu nome é Thiago Moura.
 ---
 - 👀 Tenho interesse em **Ciência de Dados** e **Machine Learning.**
-- 💻 Atualmente estou estudando **Python** e **Power BI.**
+- 💻 Atualmente estou estudando **`Python`** e **`Power BI`**
 - 📧 tmoura1981@gmail.com
 
 <div align="left">
@@ -16,3 +16,4 @@ Olá! Meu nome é Thiago Moura.
 <div> 
   <a href = "mailto:tmoura1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagomoura-pythondev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
