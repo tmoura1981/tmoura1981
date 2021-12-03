@@ -1,19 +1,28 @@
-Olá! Meu nome é Thiago Moura.
----
-- 👀 Tenho interesse em **Ciência de Dados** e **Machine Learning.**
-- 💻 Atualmente estou estudando **`Python`** e **`Power BI`**
-- 📧 tmoura1981@gmail.com
+### Olá! Bem vindo ao meu perfil.
+### Meu nome é Thiago Moura.
 
-<div align="left">
-  <a href="https://github.com/tmoura1981">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomoura&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  
-</div>
-  <img align="center" alt="Rafa-Python" height="100" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
-<div> 
-  <a href = "mailto:tmoura1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagomoura-pythondev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- Contatos -->
+<div align="left">    
+  <a href="https://github.com/tmoura1981" alt="github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
 
+ <a href="https://www.linkedin.com/in/thiagomoura-pythondev" alt="linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+    
+<a href="https://wa.me/5512997883117" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5512997883117"/></a>    
+
+<a href="mailto:tmoura1981@gmail.com" alt="gmail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
+
+  
+### Linguagem Mais Utilizada
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  
+### Frameworks
+  <div align="left">  
+  <img src="https://img.icons8.com/color/96/000000/django.png"/>
+    </a>
+  <div align="left">
+<img src="https://img.icons8.com/fluency/96/000000/flask.png"/>
