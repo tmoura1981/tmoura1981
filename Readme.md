@@ -21,9 +21,7 @@
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   
 ### Frameworks
-  <div align="left">  
-  <img src="https://img.icons8.com/color/96/000000/django.png"/>
-    </a>
-  <align="righ">
+  
 <img src="https://img.icons8.com/fluency/96/000000/flask.png"/>
- 
+  
+  <img src="https://img.icons8.com/color/96/000000/django.png"/>
