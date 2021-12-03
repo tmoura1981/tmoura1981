@@ -24,5 +24,6 @@
   <div align="left">  
   <img src="https://img.icons8.com/color/96/000000/django.png"/>
     </a>
-  <div align="left">
+  <align="righ">
 <img src="https://img.icons8.com/fluency/96/000000/flask.png"/>
+ 
