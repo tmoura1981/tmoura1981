@@ -21,7 +21,5 @@
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   
 ### Frameworks
-  
-<img src="https://img.icons8.com/fluency/96/000000/flask.png"/>
-  
-  <img src="https://img.icons8.com/color/96/000000/django.png"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"  width="223" hspace="15">   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="250"/>
+
