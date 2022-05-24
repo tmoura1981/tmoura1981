@@ -23,7 +23,7 @@
   
 ### Frameworks
 ---
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"  width="223" hspace="15">   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="250"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="250"/>
 
 ### Versionamento
 ---
